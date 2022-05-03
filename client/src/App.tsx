@@ -37,7 +37,7 @@ export default function App() {
                             fontWeight="bold"
                         >
                             <a
-                            href="https://github.com/radumd7/RandomWords-NFT"
+                            href="https://github.com/radumd7/NFT-Minter"
                             target="_blank"
                             rel="noreferrer"
                             >
